@@ -1,4 +1,8 @@
-.bier{
+.page__wrapper{
 	display: flex;
-	color: blua;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
 }
+
